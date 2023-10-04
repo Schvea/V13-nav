@@ -1,0 +1,14 @@
+body {
+    width: 1000px;
+    display: flex;
+}
+
+.navigation {}
+
+.links {
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+}
+
+li {}
